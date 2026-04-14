@@ -1,24 +1,15 @@
 void main() {
 
-//strings
-
-var name = "hemanth";
-String names = "john";
 
 
-int x = 100;
-int y = 200;
+for(var n=1; n<=10; n++) {
+	print(n);
 
-
-var z = 300;
-var u = 400;
-
-
-print(name+names);
-
-
-print(x+y+z+u);
-
+	if (n==5) {
+		print("hemanth");
+	}
+}
 
 
 }
+
