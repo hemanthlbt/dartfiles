@@ -1,30 +1,23 @@
 void main() {
-	
-	var name1 = "hemanth";
-	var name2 = "kumar";
-	var name3 = "lingabathina";
-
-			print(name1+name2+name3);
-
-
-
-			 final age  = 100;
-				final names  = true;
-
-				var period = false;
-				var period2 = true;
-				var period3 = true;
-
-
-				print(age);
-				print(names);
-				print(period);
-				print(period2);
-				print(period3);
+	final int num = 1;
+	final int num2 = 200;
+	final int num3 = 300;
+	print(num+ num2 + num3);
+		
+		
 
 
 
 }
+
+
+void test() {
+	print("This is a test!!!");
+}
+
+
+
+
 
 
 
