@@ -1,24 +1,24 @@
 void main() {
-	final int num = 1;
-	final int num2 = 200;
-	final int num3 = 300;
-	print(num+ num2 + num3);
-		
-		
+
+//strings
+
+var name = "hemanth";
+String names = "john";
+
+
+int x = 100;
+int y = 200;
+
+
+var z = 300;
+var u = 400;
+
+
+print(name+names);
+
+
+print(x+y+z+u);
 
 
 
 }
-
-
-void test() {
-	print("This is a test!!!");
-}
-
-
-
-
-
-
-
-
