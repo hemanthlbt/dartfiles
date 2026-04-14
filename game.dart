@@ -1,15 +1,16 @@
-//adding three integrs in dart!!!!
-
-
 void main() {
-	int num1 = 100; 
-	int num2 = 200;
-	int num3 = 300;
+	
 
- int result  = num1 + num2 + num3;
+	String name1 = "hemanth";
+	String name2 = "Kumar";
+	String name3 = "Lingabathina";
 
 
-print("result : $result");
+String result  = name1 + name2 + name3;
+
+
+
+print("All : $result");
 
 
 
