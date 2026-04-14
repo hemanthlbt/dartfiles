@@ -1,22 +1,17 @@
-// dart data types!!!
+//adding three integrs in dart!!!!
+
 
 void main() {
+	int num1 = 100; 
+	int num2 = 200;
+	int num3 = 300;
 
-String name= "hemanth";
-print("String:$name");
-
-
-String name2 = "Hemanthkumarlingabthina";
-print("String:$name2");
+ int result  = num1 + num2 + num3;
 
 
+print("result : $result");
 
-int num1 = 100;
-int num2 = 200;
-
-print(" addition : $num1 + $num2 ");
-
-}
 
 
 
+}
