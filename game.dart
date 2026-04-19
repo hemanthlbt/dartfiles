@@ -1,18 +1,9 @@
 void main() {
-	
-
-	String name1 = "hemanth";
-	String name2 = "Kumar";
-	String name3 = "Lingabathina";
+	dynamic seashell  = 100;
+	dynamic seahorse = "Indianocean";
 
 
-String result  = name1 + name2 + name3;
-
-
-
-print("All : $result");
-print("Alls : $result");
-
-
-
+	print(" the number is a dynamic numbebr :$seashell");
+	print(seahorse);
 }
+
