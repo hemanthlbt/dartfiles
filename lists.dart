@@ -26,8 +26,10 @@ list2.insert(0,1000);
 //Insertmany.
 
 list2.insertAll(0,[1,2,3,4,5]);
-print(list2);
+//mixed lists.
 
+var mixedList = [1,2,3,"john","bob",true, 5.9];
+print(mixedList);
 
 //remove from the list.
 
