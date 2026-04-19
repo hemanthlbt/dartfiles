@@ -32,6 +32,9 @@ var mixedList = [1,2,3,"john","bob",true, 5.9];
 print(mixedList);
 
 //remove from the list.
+var newOne = [1,2,3,4,5,5,6];
+newOne.removeAt(1);
+// print(newOne);
 
 
 //Remove from specific location!
