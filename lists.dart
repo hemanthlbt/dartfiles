@@ -21,11 +21,12 @@ list2.addAll([1,2,3,4,5,6,]);
 
 //Insert a specific position..
 list2.insert(0,1000);
-print(list2);
 
 
 //Insertmany.
 
+list2.insertAll(0,[1,2,3,4,5]);
+print(list2);
 
 
 //remove from the list.
