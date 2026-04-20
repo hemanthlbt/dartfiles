@@ -16,10 +16,15 @@ var names = {"name1" : "Hemanthkumar",
 "name3" : "virat kohli",
 "name4" : "ajay nandan",
 "name5" : "arjun  rampal"
- 
+
 };
 
-print(names["name2"]);
+
+print(names.values);
+
+
+
+
 
 
 //Show keys.
