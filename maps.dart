@@ -21,8 +21,8 @@ var names = {"name1" : "Hemanthkumar",
 
 
 names["name6"] = "amirkhan";
-
-
+names.addAll({"name7": "chetankrishna", "name8": "anubhav sinha"});
+names.clear();
 print(names);
 
 
