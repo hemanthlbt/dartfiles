@@ -20,10 +20,10 @@ var names = {"name1" : "Hemanthkumar",
 };
 
 
-print(names.values);
+names["name6"] = "amirkhan";
 
 
-
+print(names);
 
 
 
