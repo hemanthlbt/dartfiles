@@ -39,5 +39,9 @@ newOne.removeAt(1);
 
 //Remove from specific location!
 
+var testList = ["one", "two", "three", "four",5,4,6,7,8,9,9];
+
+
+
 
 }
