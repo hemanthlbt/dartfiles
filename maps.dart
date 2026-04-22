@@ -9,7 +9,7 @@ print(toppings["john"]);
 
 
 //show values.
-
+	
 var names = {"name1" : "Hemanthkumar",
 
 "name2" : "Ishanthsharma",
@@ -41,9 +41,6 @@ print(names);
 
 
 //remove everything..
-
-
-
 
 
 }
