@@ -1,46 +1,9 @@
 void main() {
+	var names = {"name1" : "Hemanthkumar" };
+	var names2 = {"name2": "Yeshwanthkumar"};
+	var names3 = {"name3": "lingabathina"};
 
-//maps, key value pairs.
-  
-
-var toppings  =  {"john": "pepporoni", "marry" : "cheese"};
-print(toppings);
-print(toppings["john"]);
-
-
-//show values.
-	
-var names = {"name1" : "Hemanthkumar",
-
-"name2" : "Ishanthsharma",
-"name3" : "virat kohli",
-"name4" : "ajay nandan",
-"name5" : "arjun  rampal"
- 	
-};
-
-
-names["name6"] = "amirkhan";
-names.addAll({"name7": "chetankrishna", "name8": "anubhav sinha"});
-names.clear();
-print(names);
-
-
-
-//Show keys.
-
-//Show Length.
-
-//Add something.
-
-
-//add many things.
-
-
-//remove something..
-
-
-//remove everything..
-
+		print(names+names2+names3);
+		
 
 }
