@@ -5,7 +5,7 @@ void main() {
 
 
 // change an item.
-myList[0] =100;
+myList[0]=100;
 print(myList);
 
 //create an empty list!
@@ -13,6 +13,7 @@ var list2 = [];
 
 //add to empty list!
 list2.add(43);
+
 
 
 //add multiple to empty list..
@@ -44,4 +45,4 @@ var testList = ["one", "two", "three", "four",5,4,6,7,8,9,9];
 
 
 
-}
+}  	
