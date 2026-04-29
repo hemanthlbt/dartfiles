@@ -1,11 +1,8 @@
 void main() {
-	var number = 100;
+	var names = ["hemanth","prashanth","arjun","vikram","nishanth"];
+		for (var name in names) {
+			print(name);
+		}
 
 
-		for (var i = number; i >= 1; i-- )
-{
-			print(i);
 }
-				}
-
-
