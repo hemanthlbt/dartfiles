@@ -1,19 +1,16 @@
 void main() {
+	var num =10;
 
-// if, if else, if else if!!!
+	if (num == 10) {
+		print("this is correct!");
+	}
 
+	else if (num == 4){
+		print("the number is 4");
+	}
 
-//if 
-
-
-var num = 5; 
-
-if (num ==5) {
-	print("this is correct!");
-}
-
-
-
-
+	else 	 {
+		print("the number is 100");
+	}
 
 }
