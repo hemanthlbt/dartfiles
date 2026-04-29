@@ -1,11 +1,6 @@
 void main() {
-
-myFunc(String name) {
-	return ("This is programming! and $name");
-}
-
-print((myFunc));
-
-
-
+	 namesFun(String n1,n2,n3) {
+	 	return "Hello $n1 $n2 $n3";
+	 	
+	 }
 }
