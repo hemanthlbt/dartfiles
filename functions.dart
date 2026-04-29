@@ -1,15 +1,11 @@
-//dart functions!!
-
-
-
 void main() {
 
-// var num = 100;
-myFunc() {
-	// return num;
-	print("hello function");
+myFunc(String name) {
+	return ("This is programming! and $name");
 }
 
-myFunc();
+print((myFunc));
+
+
 
 }
